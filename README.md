@@ -1,4 +1,4 @@
-# Commander (code name Ciruius 02)
+# Commander (code name Sirius 02)
 Commander is essentially a little programable toy you can bring around to practice coding and have fun with if you not home with your usual projects. It's main pourpose and code provides a menu that allows you to nivage through differnt OS tips and tricks along with Keybaord shortcuts and thier descriptions. Its like a little helper to make you a pro at navigating your computer faster and easier. I'm writing the code so respective to MacOS commands but feel free to interprete your own commands and edit the lists within the code to make your own version of the Commander. You can go as far as writing your own code for the board too! I'll provide pin assingments on an example code for pong on the project (after I finish the primary code). 
 
 # Current status of the project (still approaching V1)
