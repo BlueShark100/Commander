@@ -29,6 +29,8 @@ I'm protyping the project on a breadboard while I go. That way I can continue wo
 [INSERT IMAGES HERE]
 
 # How do I get one of my own?
+THIS PROJECT IS UNCOMPLETE AT THE MOMENT. The code and files are not finalised and may not work as inteded. Especialy right now the project WILL NOT WORK.
+
 The commander project is a PCB at heart. You'll need to order the board from a manufacturer youself. On top of the board you'll also have to order the components reqired for the circuit from lcsc. These components and the gerber files for the PCB can be found under the PCB files. There will be a BOM that you can use to find the components quickly and easily in lcsc, the quantities will be defined for 1 board only but feel free to edit the quantities later if you want more boards or extra components.
 
 I'll write another quide for what each of the IDs are on the board. For example that "R3" is a 330 ohm resistor and C11 is a 1uF capacitor. 
