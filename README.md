@@ -30,7 +30,13 @@ Working on a better machenism to connect the bottom plate sercurely while still 
 ### Prototyping
 I'm protyping the project on a breadboard while I go. That way I can continue working on the code while I wait for a working board to arrive. This section is mainly to put some images of what it looks like so far. I also have the images so there something cool to look at instead of a bunch of text in the README file. 
 
-[INSERT IMAGES HERE]
+Heres a test of what the LEDs within the Case might look like. **these are full sized LEDs so its way brighter that what its actually going to be on the board but worth checking out**
+
+![Test of colors in the Case](/Images/Colors1.jpeg)
+![Test of colors in the Case](/Images/Colors2.jpeg)
+![Test of colors in the Case](/Images/Colors3.jpeg)
+![Test of colors in the Case](/Images/Colors4.jpeg)
+![Test of colors in the Case](/Images/Colors5.jpeg)
 
 # How do I get one of my own?
 **THIS PROJECT IS UNCOMPLETE AT THE MOMENT. The code and files are not finalised and may not work as inteded. Especialy right now the project WILL NOT WORK.**
@@ -38,4 +44,8 @@ I'm protyping the project on a breadboard while I go. That way I can continue wo
 The commander project is a PCB at heart. You'll need to order the board from a manufacturer youself. On top of the board you'll also have to order the components reqired for the circuit from lcsc. These components and the gerber files for the PCB can be found under the PCB files. There will be a BOM that you can use to find the components quickly and easily in lcsc, the quantities will be defined for 1 board only but feel free to edit the quantities later if you want more boards or extra components.
 
 I'll write another quide for what each of the IDs are on the board. For example that "R3" is a 330 ohm resistor and C11 is a 1uF capacitor. 
+
+# Extra tid bits
+Heres the original sketch I drew when I first had the idea
+![Test of colors in the Case](/Images/Idea_sketch.jpeg)
 
