@@ -32,13 +32,9 @@ Working on a better mechanism to connect the bottom plate securely while still b
 ### Prototyping
 I'm prototyping the project on a breadboard while I go. That way I can continue working on the code while I wait for a working board to arrive. This section is mainly to put some images of what it looks like so far. I also have the images so there something cool to look at instead of a bunch of text in the README file. 
 
-Heres a test of what the LEDs within the Case might look like. **these are full sized LEDs so its way brighter that what its actually going to be on the board but worth checking out**
+Heres a test of what the LEDs within the Case might look like. This is using the first version of the PCB and none of the components are within the case. Hopes are that when I do have the LEDs working and the components are inside you can see a faint outline of the components within the case.
 
-![Test of colors in the Case](/Images/Colors1.jpeg)
-![Test of colors in the Case](/Images/Colors2.jpeg)
-![Test of colors in the Case](/Images/Colors3.jpeg)
-![Test of colors in the Case](/Images/Colors4.jpeg)
-![Test of colors in the Case](/Images/Colors5.jpeg)
+![Test of colors in the Case](/Images/WorkingLEDs.jpeg)
 
 # How do I get one of my own?
 **THIS PROJECT IS INCOMPLETE AT THE MOMENT. The code and files are not finalized and may not work as intended. Especially right now the project WILL NOT WORK.**
