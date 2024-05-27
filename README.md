@@ -3,13 +3,13 @@ Commander is essentially a little programable toy you can bring around to practi
 
 This project includes a builtin D-Pad, a 128*64 OLED display on an I2C connection, EEPROM with 4Kbytes, and side-fireing WS2812B LEDs to light up the case!
 
-# Current status of the project (Waiting for Second revision of the PCB to arrive)
+# Current status of the project (Second Version didnt work, Developing test PCBs)
 
 ### The Quick Version
 - Still completing README.md
 - Completed reference animations
 - Coding menu animation
-- Waiting for new board using ATmega328p
+- Designing test board that should be easier to debug
 - Case is hard to take apart
 
 ### Code
