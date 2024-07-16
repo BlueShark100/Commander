@@ -1,11 +1,11 @@
-# PCB V2
-This is version two of the PCB, it will function using the ATmega328p with a USB to Serial converter so you can program it via the Arduino IDE
+# PCB V3
+Version three is to try and debug the circuit used for V2
 
 ### issues
 No Currently known issues
 
 ### Notes 
-This PCB is designed for testing the circuit. There are lots of pads you can solder onto. *This one is mainly for me so I can see why the circuit for the last PCB didn't work.* I'll still include the same information as the last version that way it's known which component goes where and pin assignments for arduino.
+This PCB is designed for testing the circuit. There are lots of pads you can solder onto. *This one is mainly for me so I can see why the circuit for the last PCB didn't work.* I remade the circuit on a breadboard and it works so I'm real confused. I'll still include the same information as the last version that way it's known which component goes where and pin assignments for Arduino. The BOM is also the same as V2.
 
 ```
 int Up_Button = 3;
@@ -18,7 +18,7 @@ int LED_Data_Pin = 2;
 ![BoardPreview](Board_Preview.png)
 ![BoardLayout](Board_Layout.png)
 
-Components descriptions are as follows:
+Component descriptions are as follows:
 ```
 C7 - 10uF capacitor
 C8 - 10uF capacitor
