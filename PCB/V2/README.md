@@ -2,7 +2,7 @@
 This is version two of the PCB, it will function using the ATmega328p with a USB to Serial converter so you can program it via the Arduino IDE
 
 ### issues
-No Currently known issues
+Trouble connecting to ATmega328p to load bootloader. I tried recreating the circuit on a breadboard and it worked there. There will be another version designed for testing the circuit on the board with test pads and labeling.
 
 ### Notes 
 *Make sure to have the drivers for the CH340C USB to Serial converter installed for it to work properly.* Write/Protect solder jumper is connect to GND by default and allows normal write functions to the EEPROM module, when the right track is cut and the left pad is connected to the center pad via a solder bridge it will connect to VCC and block write functions to the EEPROM module. *Be Careful to ensure the right most and left most pads on the solder junction are not connected as to prevent a short circuit.* Integrated OLED module on the board is untested. Pin assignments for Arduino programming are as follows:
